@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Skale-5 in Lille as Junior SRE.
-- 🌱 I'm currently learning computer networks and systems at the University of Picardie (France) in Master 1 Informatique.
-- 📫 Reach me on my [LinkedIn](linkedin.tanguynicolas.fr).
+- 🔭 I’m currently working on [Skale-5](https://skale-5.com/) in Lille (France) as Junior SRE.
+- 🌱 I'm currently learning computer networks and systems at the [University of Picardie](https://www.u-picardie.fr/) (France) in Master 1 Informatique.
+- 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/tanguynicolas/).
 
 <!--
 **tanguynicolas/tanguynicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
