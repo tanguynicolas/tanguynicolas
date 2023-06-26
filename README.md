@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [Skale-5](https://skale-5.com/) in Lille (France) as Junior SRE.
 - 🌱 I'm currently learning computer networks and systems at the [University of Picardie](https://www.u-picardie.fr/) (France) in Master 1 Informatique.
+- 🎓 I'm a graduate of professional degree from the [University Institute of Technology of Opal Coast](https://www.iut-littoral.fr/) (France) in Network Administration and Security.
 - 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/tanguynicolas/).
 
 <!--
