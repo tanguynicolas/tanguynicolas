@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently working on [Skale-5](https://skale-5.com/) as Junior SRE.
-- 🌱 Currently learning computer networks and systems at the [University of Picardie](https://www.u-picardie.fr/) in Master 1 Informatique.
-- 🎓 Graduated of **professional degree** from the [University Institute of Technology of Opal Coast](https://www.iut-littoral.fr/) in Network Administration and Security.
+- 🔭 Currently **working** on [Skale-5](https://skale-5.com/) as Junior SRE.
+- 🌱 Currently **learning** computer networks and systems at the [University of Picardie](https://www.u-picardie.fr/) in Master 1 Informatique.
+- 🎓 **Graduated** of professional degree from the [University Institute of Technology of Opal Coast](https://www.iut-littoral.fr/) in Network Administration and Security.
 - 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/tanguynicolas/).
 
 <!--
