@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Currently **working** on [Skale 5](https://skale-5.com/), a [Deloitte](www2.deloitte.com) business, as DevOps & Cloud consultant.
-- 🎓 **Graduated** of Master's degree from the [University of Picardie](https://www.u-picardie.fr/formation/catalogue/master-informatique/master-ingenierie-systemes-reseaux-informatiques-m2) in computer systems and networks engineering.
+- 🔭 Currently **working** at [Skale 5](https://skale-5.com/), a [Deloitte](www2.deloitte.com) business, as a DevOps & Cloud consultant.
+- 🎓 **Graduated** with a Master's degree in computer systems and network engineering from the [University of Picardie](https://www.u-picardie.fr/formation/catalogue/master-informatique/master-ingenierie-systemes-reseaux-informatiques-m2).
 
 <!--
 **tanguynicolas/tanguynicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
